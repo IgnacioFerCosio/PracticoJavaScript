@@ -22,7 +22,7 @@ Descarga el zip de este repositorio y extraelo en tu pc.
 
 2. **Abrir el proyecto**:
 
-No es necesario instalar dependencias, simplemente abre el archivo index.html en tu navegador.
+Es necesario descargar las dependencias necesarias para correr el programa. npm install para las dependencias, npm run dev para correr el proyecto
 
 3. **Ingresar un correo electrónico**:
 
